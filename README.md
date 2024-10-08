@@ -10,3 +10,5 @@
 - [Contributing Guidelines](CONTRIBUTING.md)
 - [License](LICENSE.md)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/json.net)
+
+This fork is made to support any version of unity that BepInEx supports
